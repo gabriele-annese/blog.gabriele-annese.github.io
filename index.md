@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+## Whomai
+[Link to another page](./posts/whoami.md).
+## Posts
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
