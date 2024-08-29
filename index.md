@@ -2,11 +2,11 @@
 layout: default
 ---
 # Whomai
--  **[Who am i?](./whoami.md).**
+-  ## **[Who am i?](./whoami.md).**
 -------
 
 # Posts
 
-- **[CTF](./posts/CTF/IndexCTF.md).**
+- ## **[CTF](./posts/CTF/IndexCTF.md).**
 
-- **[Red Team](./posts/RedTeam/IndexRedTeam.md).**
+- ## **[Red Team](./posts/RedTeam/IndexRedTeam.md).**
