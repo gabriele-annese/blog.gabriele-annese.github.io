@@ -12,5 +12,5 @@ Hello, i'm **Gabriele Annese** a passionate and curious stuendent of cybersecuri
 **In progress...**
 
 # Get in Touch
-Feel free to reach out to me on *[LinkedIn](www.linkedin.com/in/gabriele-annese)* or *Email* if you'd like discuss ideas, share insights or just chat about all things tech.
+Feel free to reach out to me on *[LinkedIn](https://www.linkedin.com/in/gabriele-annese)* or *Email* if you'd like discuss ideas, share insights or just chat about all things tech.
 
